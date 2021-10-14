@@ -10,7 +10,7 @@ Y = 2 for 11 to 20
 Y = 3 for 21 to 30
 Y = 4 for 31 to 40
 Y = 5 for 41 to 50
-
+#Main use of this Repo
 They are arranged in alaphabatecially and by running 1 file you can open directly 10 stocks charts which is time saving alot
 
 #How to run this python file in terminal
