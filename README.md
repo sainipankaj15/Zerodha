@@ -3,14 +3,14 @@ Here pyhton file name is in XY format
 Here 
 X = 1 for Nifty 50 stocks     
 X = 2 for next nifty 50 stocks    
-And     
+And  
 Y = 1 for 1 to 10     
 Y = 2 for 11 to 20      
 Y = 3 for 21 to 30      
 Y = 4 for 31 to 40      
 Y = 5 for 41 to 50      
-# Main use of this Repo
-They are arranged in alaphabatecially and by running 1 file you can open directly 10 stocks charts which is time saving alot
+# Main use of this Repository
+They are arranged in alphabetical order and by running 1 file you can open directly 10 stocks charts which is time saving a lot
 
 # How to run this python file in terminal
 1. Open command plate in this folder   
